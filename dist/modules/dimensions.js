@@ -1,13 +1,13 @@
 /**
- * angular-strap
- * @version v2.1.1 - 2014-09-26
+ * jsleao-strap-popover
+ * @version v2.1.1 - 2014-10-17
  * @link http://mgcrea.github.io/angular-strap
  * @author Olivier Louvignes (olivier@mg-crea.com)
  * @license MIT License, http://www.opensource.org/licenses/MIT
  */
 'use strict';
 
-angular.module('mgcrea.ngStrap.helpers.dimensions', [])
+angular.module('jsleao.ngStrap.helpers.dimensions', [])
 
   .factory('dimensions', ["$document", "$window", function($document, $window) {
 

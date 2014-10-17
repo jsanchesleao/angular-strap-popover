@@ -204,7 +204,7 @@ gulp.task('scripts:pages', function(foo) {
 var ngtemplate = require('gulp-ngtemplate');
 var uglify = require('gulp-uglify');
 var ngmin = require('gulp-ngmin');
-var createModuleName = function(src) { return 'mgcrea.ngStrap.' + src.split(path.sep)[0]; };
+var createModuleName = function(src) { return 'jsleao.ngStrap.' + src.split(path.sep)[0]; };
 gulp.task('templates:dist', function() {
 
   var merged = merge(

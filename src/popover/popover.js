@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('mgcrea.ngStrap.popover', ['mgcrea.ngStrap.tooltip'])
+angular.module('jsleao.ngStrap.popover', ['jsleao.ngStrap.tooltip'])
 
   .provider('$popover', function() {
 

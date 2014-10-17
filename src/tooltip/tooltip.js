@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('mgcrea.ngStrap.tooltip', ['mgcrea.ngStrap.helpers.dimensions'])
+angular.module('jsleao.ngStrap.tooltip', ['jsleao.ngStrap.helpers.dimensions'])
 
   .provider('$tooltip', function() {
 

@@ -1,6 +1,6 @@
 {
-  "name": "angular-strap",
-  "description": "AngularStrap - AngularJS directives for Bootstrap",
+  "name": "jsleao-strap-popover",
+  "description": "Fork of angular strap with only the popover directive",
   "version": "2.1.1",
   "keywords": [
     "angular",

@@ -8,7 +8,7 @@ describe('tooltip', function() {
   beforeEach(module('ngAnimate'));
   beforeEach(module('ngAnimateMock'));
   beforeEach(module('ngSanitize'));
-  beforeEach(module('mgcrea.ngStrap.tooltip'));
+  beforeEach(module('jsleao.ngStrap.tooltip'));
 
   beforeEach(inject(function (_$rootScope_, _$compile_, _$templateCache_, _$$rAF_, _$animate_, _$tooltip_) {
     scope = _$rootScope_.$new();

@@ -5,7 +5,7 @@ describe('popover', function () {
   var $compile, $templateCache, scope, sandboxEl;
 
   beforeEach(module('ngSanitize'));
-  beforeEach(module('mgcrea.ngStrap.popover'));
+  beforeEach(module('jsleao.ngStrap.popover'));
   jQuery.fn.triggerHandler = function(evt) {
     return angular.element(this[0]).triggerHandler(evt);
   };
