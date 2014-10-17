@@ -6,23 +6,15 @@
     "angular",
     "bootstrap"
   ],
-  "homepage": "http://mgcrea.github.io/angular-strap",
-  "bugs": "https://github.com/mgcrea/angular-strap/issues",
   "author": {
-    "name": "Olivier Louvignes",
-    "email": "olivier@mg-crea.com",
-    "url": "https://github.com/mgcrea"
+    "name": "Jeferson Leao",
+    "email": "jsanchesleao@gmail.com",
+    "url": "https://github.com/jsanchesleao"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mgcrea/angular-strap.git"
+    "url": "https://github.com/jsanchesleao/angular-strap-popover.git"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/mgcrea/angular-strap/blob/master/LICENSE.md"
-    }
-  ],
   "dependencies": {},
   "devDependencies": {
     "chalk": "^0.5.1",
